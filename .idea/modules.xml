@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/backend.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biergarten-netflix-stack-mvn.iml" filepath="$PROJECT_DIR$/biergarten-netflix-stack-mvn.iml" />
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/discovery.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/discovery.iml" />
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/frontend.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/frontend.iml" />
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/hystrix.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/hystrix.iml" />
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/infrastructure.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/mail.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/mail.iml" />
+      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/zuul.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+version: '2'
+services:
+   discovery:
+      image: platzerworld/bg-discovery:0.1.0
+      container_name: gpl-discovery
+      ports:
+         - 8761:8761
+   frontend:
+      image: platzerworld/bg-frontend:0.1.0
+      container_name: gpl-frontend
+      links:
+         - discovery 
+      depends_on:
+         - discovery
+   mail:
+      image: platzerworld/bg-mail:0.1.0
+      container_name: gpl-mail
+      links:
+         - discovery 
+      depends_on:
+         - discovery
+   backend:
+      image: platzerworld/bg-backend:0.1.0
+      container_name: gpl-backend
+      links:
+         - discovery
+         - mail 
+      depends_on:
+         - discovery
+         - mail
+   proxy:
+      image: platzerworld/bg-zuul:0.1.0
+      container_name: gpl-zuul
+      ports:
+         - 8000:8000
+      links:
+         - discovery
+         - frontend
+         - backend 
+      depends_on:
+         - discovery
+         - backend
+         - frontend
+   hystrix:
+      image: platzerworld/bg-hystrix:0.1.0
+      container_name: gpl-hystrix
+      ports:
+         - 12000:12000
+      links:
+         - discovery
+         - backend 
+      depends_on:
+         - discovery
+         - backend

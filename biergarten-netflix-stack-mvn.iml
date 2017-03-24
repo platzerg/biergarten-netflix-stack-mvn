@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/target/classes" />
+    <output-test url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/target/test-classes" />
+    <content url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn">
+      <sourceFolder url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="alternativeWorkingDirPath" value="" />
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+    <option name="useAlternativeWorkingDir" value="false" />
+    <option name="workingDirSelection" value="&lt;MODULE&gt;" />
+  </component>
+</module>

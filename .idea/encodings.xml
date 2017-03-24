@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/demo" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul" charset="UTF-8" />
+  </component>
+</project>

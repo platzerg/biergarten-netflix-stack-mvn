@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/src/test/java/com/platzerworld/biergarten/DiscoveryApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/src/main/java/com/platzerworld/biergarten/ZuulApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/src/test/java/com/platzerworld/biergarten/ZuulApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
