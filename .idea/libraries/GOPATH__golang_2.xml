@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;golang&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/projektdateien_crashkurs" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/Ex_Files_CodeClinic_Go" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/Ex_Files_Go_for_Web_Dev" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/platzerworld" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/goprojects" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/sqlite3" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/github.com" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/projektdateien_crashkurs" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/Ex_Files_CodeClinic_Go" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/Ex_Files_Go_for_Web_Dev" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/platzerworld" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/goprojects" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/sqlite3" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/github.com" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/mail" />
+      <root url="file://$PROJECT_DIR$/discovery" />
+      <root url="file://$USER_HOME$/Development/Projects/gowork/src/golang" />
+      <root url="file://$PROJECT_DIR$/hystrix" />
+      <root url="file://$PROJECT_DIR$/gatling" />
+      <root url="file://$PROJECT_DIR$/backend" />
+      <root url="file://$PROJECT_DIR$/userregistration" />
+      <root url="file://$PROJECT_DIR$/zuul" />
+      <root url="file://$PROJECT_DIR$/acceptancetestjbehaveenglish" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/acceptancetestselenium" />
+      <root url="file://$PROJECT_DIR$/infrastructure" />
+      <root url="file://$PROJECT_DIR$/acceptancetestjbehave" />
+      <root url="file://$PROJECT_DIR$/frontend" />
+    </excluded>
+  </library>
+</component>

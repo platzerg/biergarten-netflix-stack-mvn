@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/userregistration" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/pom.xml" />
-        <option value="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/mail/pom.xml" />
+        <option value="$PROJECT_DIR$/infrastructure/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/gatling/pom.xml" />
+        <option value="$PROJECT_DIR$/acceptancetestselenium/pom.xml" />
+        <option value="$PROJECT_DIR$/acceptancetestjbehaveenglish/pom.xml" />
+        <option value="$PROJECT_DIR$/acceptancetestjbehave/pom.xml" />
+        <option value="$PROJECT_DIR$/userregistration/pom.xml" />
       </list>
     </option>
   </component>
@@ -307,6 +315,6 @@
     </entry>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/out" />
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

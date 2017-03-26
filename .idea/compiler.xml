@@ -6,25 +6,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="acceptancetestjbehave" />
+        <module name="acceptancetestjbehaveenglish" />
+        <module name="acceptancetestselenium" />
         <module name="backend" />
-        <module name="biergarten-netflix-stack-mvn" />
         <module name="discovery" />
         <module name="frontend" />
+        <module name="gatling" />
         <module name="hystrix" />
         <module name="infrastructure" />
         <module name="mail" />
+        <module name="userregistration" />
         <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
+      <module name="acceptancetestjbehave" target="1.8" />
+      <module name="acceptancetestjbehaveenglish" target="1.8" />
+      <module name="acceptancetestselenium" target="1.8" />
       <module name="backend" target="1.8" />
-      <module name="biergarten-netflix-stack-mvn" target="1.5" />
+      <module name="biergarten-netflix-stack-mvn" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="discovery" target="1.8" />
       <module name="frontend" target="1.8" />
+      <module name="gatling" target="1.8" />
       <module name="hystrix" target="1.8" />
       <module name="infrastructure" target="1.5" />
       <module name="mail" target="1.8" />
+      <module name="userregistration" target="1.8" />
       <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>

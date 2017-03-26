@@ -1,0 +1,22 @@
+elasticsearch:
+  build: elasticsearch
+  ports:
+    - "9200:9200"
+kibana:
+  build: kibana
+  ports:
+    - "5601:15601"
+  links:
+   - elasticsearch
+logstash:
+  build: logstash
+  links:
+   - elasticsearch
+user-registration:
+  build: user-registration
+  ports:
+    - "8080:18080"
+  volumes_from:
+   - logstash
+
+

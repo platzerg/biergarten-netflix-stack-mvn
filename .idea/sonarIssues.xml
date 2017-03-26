@@ -3,87 +3,302 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/pom.xml">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/Dockerfile">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/src/main/docker/Dockerfile">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/book.go">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/pom.xml">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/book_test.go">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/src/main/docker/Dockerfile">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/echo.go">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/src/test/java/com/platzerworld/biergarten/DiscoveryApplicationTests.java">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/hello.go">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/pom.xml">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/k8s-deployment.yml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/src/main/docker/Dockerfile">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/k8s-service-yml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/pom.xml">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/mocroservice.go">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/src/main/docker/Dockerfile">
+        <entry key="$USER_HOME$/Development/Projects/gowork/src/golang/read.me">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/docker-compose.yml">
+        <entry key="$PROJECT_DIR$/.travis.yml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/pom.xml">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehave/LIESMICH.md">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/pom.xml">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehave/pom.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/src/main/docker/Dockerfile">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehave/src/main/java/com/platzerworld/biergarten/registration/UserRegistrationScenarios.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/pom.xml">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehave/src/main/java/com/platzerworld/biergarten/registration/UserRegistrationSteps.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/src/main/docker/Dockerfile">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehave/src/main/resources/com/platzerworld/biergarten/registration/user_registration_scenarios.story">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/src/main/java/com/platzerworld/biergarten/ZuulApplication.java">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehaveenglish/LIESMICH.md">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/src/test/java/com/platzerworld/biergarten/ZuulApplicationTests.java">
+        <entry key="$PROJECT_DIR$/acceptancetestjbehaveenglish/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/acceptancetestjbehaveenglish/src/main/java/com/platzerworld/biergarten/registration/UserRegistrationSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/acceptancetestselenium/LIESMICH.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/acceptancetestselenium/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/acceptancetestselenium/src/test/java/com/platzerworld/biergarten/registration/selenium/EnglishRegistrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/acceptancetestselenium/src/test/java/com/platzerworld/biergarten/registration/selenium/RegisterierungTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backend/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/discovery/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/discovery/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/discovery/src/test/java/com/platzerworld/biergarten/DiscoveryApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docker/log/spring.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/frontend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/frontend/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gatling/LIESMICH.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gatling/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gatling/src/test/scala/com/platzerworld/biergarten/registration/gatling/UserRegistration.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gatling/src/test/scala/com/platzerworld/biergarten/userregistration/gatling/UserRegistration.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/golang/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/golang/mocroservice.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hystrix/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hystrix/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/infrastructure/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/infrastructure/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/installKubernetes.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mail/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mail/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/LIESMICH.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/RegistrationApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/RegistrationApplicationServletInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/RegistrationConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/domain/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/service/GraphiteMetricsReporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/service/RegistrationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/web/EnglishRegistrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/main/java/com/platzerworld/biergarten/registration/web/RegistrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/test/java/com/platzerworld/biergarten/registration/RegistrationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/userregistration/src/test/java/com/platzerworld/biergarten/registration/RegistrationServiceUnitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/zuul/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/zuul/src/main/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/zuul/src/main/java/com/platzerworld/biergarten/ZuulApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/zuul/src/test/java/com/platzerworld/biergarten/ZuulApplicationTests.java">
           <value>
             <set />
           </value>

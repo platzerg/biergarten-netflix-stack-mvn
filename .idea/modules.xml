@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/backend.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acceptancetestjbehave/acceptancetestjbehave.iml" filepath="$PROJECT_DIR$/acceptancetestjbehave/acceptancetestjbehave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acceptancetestjbehaveenglish/acceptancetestjbehaveenglish.iml" filepath="$PROJECT_DIR$/acceptancetestjbehaveenglish/acceptancetestjbehaveenglish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acceptancetestselenium/acceptancetestselenium.iml" filepath="$PROJECT_DIR$/acceptancetestselenium/acceptancetestselenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/biergarten-netflix-stack-mvn.iml" filepath="$PROJECT_DIR$/biergarten-netflix-stack-mvn.iml" />
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/discovery.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery/discovery.iml" />
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/frontend.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend/frontend.iml" />
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/hystrix.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix/hystrix.iml" />
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/infrastructure.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/infrastructure/infrastructure.iml" />
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/mail.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail/mail.iml" />
-      <module fileurl="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/zuul.iml" filepath="$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatling/gatling.iml" filepath="$PROJECT_DIR$/gatling/gatling.iml" />
+      <module fileurl="file://$USER_HOME$/Development/Projects/gowork/src/golang/golang.iml" filepath="$USER_HOME$/Development/Projects/gowork/src/golang/golang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail/mail.iml" filepath="$PROJECT_DIR$/mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userregistration/userregistration.iml" filepath="$PROJECT_DIR$/userregistration/userregistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
     </modules>
   </component>
 </project>

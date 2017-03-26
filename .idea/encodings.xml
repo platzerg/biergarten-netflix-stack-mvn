@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/backend" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/demo" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/discovery" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/frontend" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/hystrix" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/mail" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Users/platzerworld/Development/Projects/biergarten-netflix-stack-mvn/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acceptancetestjbehave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acceptancetestjbehaveenglish" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acceptancetestselenium" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gatling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userregistration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
   </component>
 </project>
